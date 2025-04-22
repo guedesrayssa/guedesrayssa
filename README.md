@@ -26,14 +26,7 @@ Apaixonada por games, café e gatinhos, acredito que um bom código também pode
 
 ### 📈 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=guedesrayssa&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
-  />
+![Rayssa's GitHub stats](https://github-readme-stats.vercel.app/api?username=guedesrayssa&show_icons=true&theme=synthwave)
 
 
 
