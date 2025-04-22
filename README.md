@@ -4,7 +4,11 @@
 
 **`Computer Science Studant`**
 
- Olá!👋🏻, me chamo Rayssa Guedes, tenho 20 anos e sou natural de São José dos Campos - SP. Concluí o ensino médio no Colégio Embraer Juarez Wanderley e atualmente curso Ciência da Computação no [Inteli](https://github.com/Inteli-College) - Instituto de Tecnologia e Liderança. Além disso, sou apaixonada por games, café e gatinhos!☕🐈 
+👋🏻 Oi! Sou a Rayssa Guedes, estudante de Ciência da Computação no Inteli – Instituto de Tecnologia e Liderança. Desde pequena, sou fascinada por jogos e tecnologia, e hoje transformo essa paixão em projetos que unem criatividade, design e desenvolvimento.
+
+Curiosa e movida por desafios, gosto de explorar ideias, aprender constantemente e criar soluções que façam a diferença. No Inteli, aplico metodologias ágeis, colaboro com empresas reais e me aprofundo em áreas como desenvolvimento web, arquitetura de software e design centrado no usuário.
+
+Apaixonada por games, café e gatinhos, acredito que um bom código também pode carregar um pouco de afeto. ☕🐈
 
  
 
